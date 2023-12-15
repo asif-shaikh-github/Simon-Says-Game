@@ -67,14 +67,7 @@ h2{
     background-color: rgb(15, 168, 111);
 }
 
-#box2{
-    height: 5rem;
-    width: 5rem;
-    background-color: blue;
-    border: 3px solid black;
-    border-radius: 20%;
-    margin: 3em;
-}
+
 
 #startButton{
     margin-top: 2em;
@@ -90,22 +83,4 @@ h2{
 
 #startButton:hover{
     cursor: pointer;
-}
-
-#box3{
-    height: 5rem;
-    width: 5rem;
-    background-color: green;
-    border: 3px solid black;
-    border-radius: 20%;
-    margin: 3em;
-}
-
-#box4{
-    height: 5rem;
-    width: 5rem;
-    background-color: yellow;
-    border: 3px solid black;
-    border-radius: 20%;
-    margin: 3em;
 }
