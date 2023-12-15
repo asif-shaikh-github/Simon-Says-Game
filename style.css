@@ -76,6 +76,22 @@ h2{
     margin: 3em;
 }
 
+#startButton{
+    margin-top: 2em;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 100px;
+    padding: 0.25rem 1rem;
+    font-weight: 700;
+    /* margin-top: 0.5rem; */
+    height: 2rem;
+    width: fit-content;
+}
+
+#startButton:hover{
+    cursor: pointer;
+}
+
 #box3{
     height: 5rem;
     width: 5rem;
